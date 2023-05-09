@@ -10,7 +10,6 @@
 ## Ferramentas
 
 - HTML
-- CSS
 - Javascript
 - Bootstrap
 - Fontawesome
